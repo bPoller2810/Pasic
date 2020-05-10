@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasicCompiler", "PasicCompiler.csproj", "{79F84052-A77F-404A-ADF4-81419A3C14E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testfiles", "Testfiles", "{1050940A-13E7-434B-91E1-0701114E1570}"
+	ProjectSection(SolutionItems) = preProject
+		Testfiles\SettingsTester.pcd = Testfiles\SettingsTester.pcd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F84052-A77F-404A-ADF4-81419A3C14E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F84052-A77F-404A-ADF4-81419A3C14E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F84052-A77F-404A-ADF4-81419A3C14E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F84052-A77F-404A-ADF4-81419A3C14E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B06D7BC3-33C1-4534-9B59-08A084E7E73C}
+	EndGlobalSection
+EndGlobal

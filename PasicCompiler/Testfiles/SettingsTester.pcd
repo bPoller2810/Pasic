@@ -1,0 +1,4 @@
+
+var i = 4;
+//comment
+print 3+i;
